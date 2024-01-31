@@ -7,9 +7,12 @@ I'm Sumitha. My journey in the world of web technology has equipped me with HTML
 
 What You'll Find Here
 Projects
-🚀 Explore a collection of my noteworthy projects, each demonstrating my skills in Python, UI/UX designing and more. From working on the pojects, these repositories showcase my commitment to quality, innovation and efficiency.
+
+🚀 Explore a collection of my noteworthy projects, each demonstrating my skills in Python, UI/UX designing and more.
+From working on the pojects, these repositories showcase my commitment to quality, innovation and efficiency.
 
 Blog
+
 📝 I occasionally share my thoughts and insights on TECH and LIFE through my blog posts. Dive into my writings to gain a deeper understanding of my perspectives and experiences.
 
 
