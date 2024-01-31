@@ -26,5 +26,6 @@ Let's Connect
 
 🔗 LinkedIn: www.linkedin.com/in/sumitha-jothi-2604a8221
 
+
 Feel free to explore, collaborate, and reach out! I'm always open to new opportunities and exciting projects.
 
